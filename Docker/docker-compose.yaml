@@ -1,0 +1,6 @@
+﻿namespace ElasticSearchService.Docker
+{
+    public class docker_compose
+    {
+    }
+}
